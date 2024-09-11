@@ -52,3 +52,7 @@ An adversary who has successfully obtained valid credentials may attempt to trig
 •	Query Frequency: - Run query every 15 minutes
 
 •	Query Lookup data: - Lookup data from the last 5 days.
+
+# Output
+![image](https://github.com/user-attachments/assets/1d181321-d96c-4e2f-b607-1392b8b0e7ab)
+
