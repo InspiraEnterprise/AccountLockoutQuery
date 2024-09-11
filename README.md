@@ -1,0 +1,2 @@
+# Account-Lockout-Analysis-Custom-Analytical-Rule
+IDENTIFYING ANOMALOUS LOCKOUT EVENTS  USING KUSTO QUERY LANGUAGE (KQL)
